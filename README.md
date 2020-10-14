@@ -3,7 +3,7 @@ A college management system built using Django framework. It is designed for int
 
 ## Installation
 
-Python and Django need to be installed
+Python and Django need to be installed.
 
 ```bash
 pip install django
